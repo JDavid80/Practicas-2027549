@@ -1,0 +1,17 @@
+/* clases de elementos */
+h1 {
+    color: blue;
+
+}
+h3 {
+    color: red;
+}
+p {
+color: darkolivegreen;
+}
+h3.darkcyan{
+    color: darkcyan;
+}
+.font-orange{
+    color: orange;
+}
