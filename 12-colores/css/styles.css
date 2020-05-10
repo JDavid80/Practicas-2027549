@@ -1,0 +1,19 @@
+.color-rojo {
+    color: rgb(255,0,0
+    );
+}
+.color-verde {
+    color: rgb(0,255,0);
+}
+.color-azul {
+    color: rgb(0,0,255);
+}
+p{
+    font-size: 2em;
+}
+div {
+    width: 30%;
+    height: 100px;
+    background-color:rgb(2,109,117);
+    margin: 0 auto 0 auto;
+}
