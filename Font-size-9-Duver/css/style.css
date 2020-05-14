@@ -1,0 +1,28 @@
+/* Duver Olmedo Uni Fernandez */
+
+.titulo{
+    color: red;
+    text-align: center;
+
+    font-size: 3em;
+
+
+}
+
+.parrafo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.5em;
+}
+
+.parrafo1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+}
+
+.parrafo2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5;    
+}
+.parrafo3{
+    font-size: 2em;
+}
