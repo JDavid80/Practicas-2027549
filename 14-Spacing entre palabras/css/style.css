@@ -1,0 +1,9 @@
+.w-small {
+    word-spacing: -.08em;
+}
+.w-normal {
+    word-spacing: 0;
+}
+.w-long {
+    word-spacing: .5em;
+}

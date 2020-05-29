@@ -1,0 +1,15 @@
+.alin-left {
+    text-align: left;
+}
+.alin-right {
+    text-align: right;
+}
+.alin-center {
+    text-align: center;
+}
+.alin-justify {
+    text-align: justify;
+}
+div {
+    width: 30%;
+}

@@ -1,0 +1,27 @@
+
+.alin-left {
+    text-align: left;
+}
+.alin-right {
+    text-align: right;
+}
+.alin-center {
+    text-align: center;
+}
+.alin-justify {
+    text-align: justify;
+}
+div {
+    width: 30%;
+}.identado {
+    text-indent: 2em;
+}
+.letra-grande {
+    font-size: 8em;
+}
+.identado {
+    text-indent: 2em;
+}
+.letra-grande {
+    font-size: 3em;
+}

@@ -1,0 +1,9 @@
+.small {
+    letter-spacing: -.08em;
+}
+.normal {
+    letter-spacing: 0;
+}
+.long {
+    letter-spacing: .5em;
+}

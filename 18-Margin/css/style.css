@@ -1,0 +1,16 @@
+.margin-small{
+     margin: 0.2em;
+}
+/* formas de especificar los margenes 
+margin:3em par todos los lados
+margin: 3em 5em 5em 2em;
+top,right,bottom.
+margin-top: 3em;
+mergin-right:5em;
+margin-bottom:5em;
+*/
+
+
+.margin-long {
+    margin: 3em 5em 5em 2em;
+}

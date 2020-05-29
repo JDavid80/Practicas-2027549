@@ -1,0 +1,12 @@
+.lh-small {
+    line-height: 0.8em ;
+}
+.lh-normal {
+    line-height: 1.2em;
+}
+.lh-long {
+    line-height: 2em;
+}
+p {
+    font-size: 2em;
+}
