@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+div {
+    display: inline;
+}
+img.nevado {
+    margin: 2em;
+    border-top: 4px dotted purple;
+    border-left: 4px dotted rgb(204, 122, 204);
+    border-right: 4px dotted rgb(204, 122, 204);
+    border-bottom: 4px dotted purple;
+    padding: 2em;
+    
+}
+img.laguna {
+    margin: 2em;
+    border-top: 4px double purple;
+    border-left: 4px double rgb(204, 122, 204);
+    border-right: 4px double rgb(204, 122, 204);
+    border-bottom: 4px double purple;
+    padding: 2em;
+
+}
+img.atardecer {
+    margin: 2em;
+    border-top: 4px dotted purple;
+    border-left: 4px dotted rgb(204, 122, 204);
+    border-right: 4px dotted rgb(204, 122, 204);
+    border-bottom: 4px dotted purple;
+    padding: 2em;
+}
