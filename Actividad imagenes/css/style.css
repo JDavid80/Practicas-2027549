@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+}
+div {
+    display: inline;
+}
+img.javascript {
+    margin: 1.5em;
+    border-top: 4px solid darkcyan;
+    border-left: 4px solid darkcyan;
+    border-right: 4px solid darkcyan;
+    border-bottom: 4px solid darkcyan;
+    padding: 1.5em;
+    border-radius: 10%;
+    background-color: whitesmoke;
+    
+}
+img.java {
+    margin: 1.5em;
+    border-top: 4px solid darkcyan;
+    border-left: 4px solid darkcyan;
+    border-right: 4px solid darkcyan;
+    border-bottom: 4px solid darkcyan;
+    padding: 1.5em;
+    border-radius: 10%;
+    background-color: whitesmoke;
+
+}
+img.php {
+    margin: 1.5em;
+    border-top: 4px solid darkcyan;
+    border-left: 4px solid darkcyan;
+    border-right: 4px solid darkcyan;
+    border-bottom: 4px solid darkcyan;
+    padding: 1.5em;
+    border-radius: 10%;
+    background-color: whitesmoke;
+}
+    
+
+
+img.python { 
+    margin: 1.5em;
+    border-top: 4px solid darkcyan;
+    border-left: 4px solid darkcyan;
+    border-right: 4px solid darkcyan;
+    border-bottom: 4px solid darkcyan;
+    padding: 2em;
+    border-radius: 10%;
+    background-color: whitesmoke;
+}
+img.csharp {
+    margin: 1.5em;
+    border-top: 4px solid darkcyan;
+    border-left: 4px solid darkcyan;
+    border-right: 4px solid darkcyan;
+    border-bottom: 4px solid darkcyan;
+    padding: 1.5em;
+    border-radius: 10%;
+    background-color: whitesmoke;
+
+
+}
