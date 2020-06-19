@@ -1,0 +1,15 @@
+body {
+    color: red;
+}
+h2 {
+    color: black;
+}
+div {
+    color: blue;
+}
+.parrafo-style {
+    color: brown;
+}
+.size-propio {
+    font-size: .25em;
+}

@@ -1,0 +1,6 @@
+h1,h2,p{
+    color: chocolate;
+}
+h1,.fuente-special {
+    font-family: 'Courier New', Courier, monospace;
+}
