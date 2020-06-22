@@ -1,0 +1,29 @@
+#lobster {
+    font-family: 'Lobster', cursive;
+}
+div {
+    width: 100%;
+}
+.azul-claro {
+    width: 33%;
+    float: left;
+}
+.rosado {
+    width: 33%;
+    float: left;
+}
+.fucsia {
+    width: 33%;
+    float: right;
+}
+body {
+    width: 90%;
+}
+img {
+    margin-bottom: 5em;
+}
+h1 {
+    text-align: center;
+    color: dodgerblue;
+}
+    

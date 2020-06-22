@@ -1,6 +1,9 @@
-h1,h2,p{
-    color: chocolate;
+p,h2 {
+    color: dimgray;
 }
-h1,.fuente-special {
-    font-family: 'Courier New', Courier, monospace;
+h1,h2 {
+    text-align: center;
+}
+h1,.color-dodger {
+    color: dodgerblue;
 }
