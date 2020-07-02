@@ -1,0 +1,32 @@
+.Berkshire_Swash,.centrado{
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    color: indigo;
+}
+.capas,.MVC {
+    text-align: justify;
+    float: left;
+    width: 31%;
+    }
+.Servidor {
+    text-align: justify;
+    float: right;
+    width: 31%;
+}
+  
+.MVC{
+    margin: 0 0 0 3.5%;
+}
+.Servidor{
+    text-align: justify;
+    width: 31;
+    float: right;
+    
+}
+body {
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+div {
+    width: 90;
+}

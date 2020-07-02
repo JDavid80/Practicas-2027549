@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+img {
+    float: left;
+}
+.div-flotante {
+    float: left;
+    margin: 0.2em;
+}
+.img-izq {
+float: left;
+}
+.img-der {
+    float: right;
+}
+p{
+    font-size: 3em;
+}
