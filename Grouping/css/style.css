@@ -1,0 +1,65 @@
+/* Agrupamiento */
+p, h2 {
+/*     color: dimgray; */
+color: white;
+}
+h1, h2 {
+    text-align: center;
+    letter-spacing: .05em;
+}
+h1, .color-dodger {
+    color: white;
+} 
+#lobster {
+    font-family: 'Lobster', cursive;
+}
+.fuente-naranja {
+    color: orange;
+}
+img {
+    /* display: block; */
+    margin-bottom: .5em;
+}
+div {
+    width: 100%;
+}
+.color-gris {
+    width: 33%;
+    float: left;
+}
+.azul-claro {
+    width: 33%;
+    float: left;
+}
+.naranja {
+    float: right;
+    width: 33%;
+}
+
+ .parrafo1, .parrafo2 {
+     text-align: justify;
+     float: left;
+     width: 31%;
+ }
+ .parrafo3 {
+     text-align: justify;
+    float: right;
+    width: 31%;
+}
+ .parrafo2 {
+    margin: 0 0 0 3.5%;
+ }
+ .parrafo3 {
+     text-align: justify;
+     width: 31%;
+     float: right;
+ }
+ body {
+     width: 95%;
+     margin: 0 auto 0 auto;
+ }
+ body {
+     background-color: rgb(96,96,96);
+ }
+
+

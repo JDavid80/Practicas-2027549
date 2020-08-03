@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    margin: 0 1em 0 1em;
+}
+.div-flotante {
+    float: left;
+}
+img {
+    margin: 0 1em 0 1em;
+}
+.img-izq {
+    float: left;
+}
+.img-der {
+    float: right;
+}
+p {
+    font-size: 1.5em;
+    text-align: justify;
+    margin: 0 1em 0 1em;
+}
+.limpiar-lados {
+    clear: both;
+}

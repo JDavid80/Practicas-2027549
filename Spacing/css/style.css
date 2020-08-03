@@ -1,0 +1,74 @@
+.small {
+    letter-spacing: -.08em;
+}
+.normal {
+    letter-spacing: 0;
+}
+.long {
+    letter-spacing: .5em;
+}
+.w-small {
+    word-spacing: -.08em;
+}
+.w-normal {
+    word-spacing: 0;
+}
+.w-long {
+    word-spacing: .5em;
+}
+.lh-small {
+    line-height: 0.8em;
+}
+.lh-normal {
+    line-height: 1.2em;
+}
+.lh-long {
+    line-height: 2em;
+}
+p {
+    font-size: 2em;
+}
+.alin-left {
+    text-align: left;
+}
+.alin-right {
+    text-align: right;
+}
+.alin-center {
+    text-align: center;
+}
+.alin-justify {
+    text-align: justify;
+}
+div {
+    width: 30%;
+}
+.identado {
+    text-indent: 2em;
+}
+.letra-grande {
+    font-size: 3em;
+}
+blockquote {
+    font-size: 0.5em;
+    color: darkcyan;
+    text-align: justify;
+}
+.margin-small {
+    margin: 0.2em;
+}
+.margin-long {
+    /* top, right, bottom, left */
+    margin-top: 0.1em;
+    margin-right:5em;
+    margin-bottom:5em;
+}
+.izq {
+    float: left;
+}
+.der {
+    float: right;
+}
+.izq, .der {
+    width: 40%;
+}

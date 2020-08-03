@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: darkcyan
+}
+img {
+    margin: 0 auto 0 auto;
+    width: 33%;
+    min-width: 400px;
+}
+div {
+    text-align: center;
+}

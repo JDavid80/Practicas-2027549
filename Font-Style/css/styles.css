@@ -1,0 +1,9 @@
+h1, p {
+    color: darkcyan;
+}
+p {
+    font-size: 1.4em;
+}
+.fuente-italica {
+    font-style: italic;
+}
