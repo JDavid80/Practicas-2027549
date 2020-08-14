@@ -1,0 +1,43 @@
+ div#header {
+     width: 100%;
+     background-color: brown;
+     left: 0;
+     top: -1%;
+     position: fixed; 
+}
+
+div#invisible-header {
+    width: 100%;
+    visibility: hidden;
+
+}
+
+ div#header h2,div#invisible-header h2 {
+     font-weight: 900;
+     color: white;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+ div#header img, div#invisible-header img {
+     float: left;
+     margin: .9em .6em 0 .75em;
+ }
+ p.clearfloat {
+     clear: both;
+ }
+ 
+
+ }
+ body {
+     width: 90%;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 1em;
+     background-color:white;
+     counter-reset: black;
+     display: block;
+     margin: 0 auto 0 auto;
+     text-align: justify;
+ }
+ p{
+     font-size: 1.6em;
+ }
