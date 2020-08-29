@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+div#main {
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+img.orquesta {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+audio.musica {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+p.canciones {
+    text-align: center;
+}

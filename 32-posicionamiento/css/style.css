@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+}
+div.estatico {
+    position: static;
+    background-color: salmon;
+}
