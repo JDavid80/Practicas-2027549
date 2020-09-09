@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+body{
+    background-color: rgb(245,245,245);
+}
+form{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .9em;
+}
+input[type="text"],input[type="email"],
+textarea,select{
+    margin-bottom: .25em;
+    font-size: 1em;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 10px;
+    border:1px solid black;
+
+}
+input[type="image"]{
+    font-size: 1.25em;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+legend{
+    font-weight: 700;
+}
+label{
+    display: block;
+}
+fieldset{
+    border-radius: 7px;
+    background-color: white;
+}
